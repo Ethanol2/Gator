@@ -13,8 +13,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Ethanol2/blog-aggregator/internal/config"
-	"github.com/Ethanol2/blog-aggregator/internal/database"
+	"github.com/Ethanol2/gator/internal/config"
+	"github.com/Ethanol2/gator/internal/database"
 	"github.com/google/uuid"
 	_ "github.com/lib/pq"
 )

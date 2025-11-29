@@ -1,4 +1,4 @@
-module github.com/Ethanol2/blog-aggregator
+module github.com/Ethanol2/gator
 
 go 1.25.1
 
